@@ -11,10 +11,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendoud&label=Profile%20views&color=0e75b6&style=flat" alt="sendoud" /> </p>
 
+-🔭 Sophomore Student at Indian Institute of Information Technology, Sri City
+
 - 🌱 I’m currently learning **solidity and blockchain**
 
-- ⚡ Hobby [coding , reading and Graffiti](coding , reading and Graffiti)
-
+- ⚡ Hobby [coding , reading , Graffiti]
+- 
 - 💬 Ask me about **DSA, competitive programming, blockchain, Game dev**
 
 - 📫 How to reach me **janan.karur@gmail.com**
