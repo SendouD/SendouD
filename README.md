@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendoud&label=Profile%20views&color=0e75b6&style=flat" alt="sendoud" /> </p>
 
--🔭 Sophomore Student at Indian Institute of Information Technology, Sri City
+- 🔭 Sophomore Student at Indian Institute of Information Technology, Sri City
 
 - 🌱 I’m currently learning **solidity and blockchain**
 
