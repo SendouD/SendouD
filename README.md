@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+<img alt="Screenshot 2023-08-14 134108" src="https://cdn.discordapp.com/attachments/1071307727848095905/1154802132948619414/WhatsApp_Image_2023-09-22_at_19.50.51.jpg">
+</div>
+
 <!--
 **SendouD/SendouD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
