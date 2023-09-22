@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **solidity and blockchain**
 
 - ⚡ Hobby [coding , reading , Graffiti]
-- 
+
 - 💬 Ask me about **DSA, competitive programming, blockchain, Game dev**
 
 - 📫 How to reach me **janan.karur@gmail.com**
